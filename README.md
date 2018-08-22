@@ -1,5 +1,10 @@
 Multi-Level Tagger
 ==============================
+This is the code associated with this paper:
+
+Barrett, Maria, Joachim Bingel, Nora Hollenstein, Marek Rei and Anders Søgaard (2018). “Sequence classification with Human Attention.” In: The SIGNLL Conference on Computational Natural Language Learning (CoNLL).
+
+The code is based on the code from https://github.com/marekrei/mltagger
 
 Run experiment with 
 
